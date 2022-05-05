@@ -5,3 +5,4 @@ Finished Challenges:
 (Name of Challenge - Problem - programming language - difficulty)
 
 Watermelon - Problem 4A - Python - ★
+CandiesAndTwoSisters - Problem 1335A - Python - ★

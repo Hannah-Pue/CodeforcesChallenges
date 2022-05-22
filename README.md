@@ -8,3 +8,4 @@ Watermelon - Problem 4A - Python - ★
 CandiesAndTwoSisters - Problem 1335A - Python - ★
 Sale - Problem 34B - Python - ★
 Soft Drinking - Problem 151A - Java - ★
+Queue at the School - Problem B - Java ★
